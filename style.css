@@ -29,13 +29,13 @@ nav {
 
 .nav-link {
     font-size: 24px;
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
 h1 {
     text-align: center;
-    color: black;
+    color: white;
     font-size: 36px;
     margin-top: ;
     margin-bottom: ;
@@ -72,10 +72,11 @@ footer {
     background-color: #1D0772;
     padding: 25px;
     display: flex;
+    color: white;
 }
 
 footer a {
-    margin-right: ;
+    margin-right: 25px;
 }
 
 footer p {
